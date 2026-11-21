@@ -16,7 +16,7 @@ A practice project in library metadata work. I took 500 Project Gutenberg record
 | `data/gutenberg_500.mrk` | Converted records in MarcEdit text format (open in MarcEdit, or compile to .mrc with MarcMaker) |
 | `scripts/csv_to_mrk.py` | The conversion script (Python 3, standard library only) |
 | `docs/findings.md` | Validation results, what the numbers mean, and corrections found |
-| `koha-import-export/` | Practice with bulk import, correction and export in Koha (local test catalogue) |
+[`koha-import-export/`](koha-import-export/) Practice with bulk import, correction and export in Koha (local test catalogue) |
 
 ## How to reproduce
 ```
