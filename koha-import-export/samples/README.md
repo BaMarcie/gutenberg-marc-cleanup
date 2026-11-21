@@ -1,0 +1,1 @@
+`record-2-excerpt.mrk` is a shortened excerpt of Koha record 2 (Gutenberg #20071) as exported and opened in MarcEdit after the bulk correction. It shows the corrected `651` line and the `942` and `999` fields that Koha adds. For the full file, add your own `koha_export_test.mrk` here.
